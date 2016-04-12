@@ -1,7 +1,7 @@
 name: luustra
 favicon: null
-layout_spectrum: 0.4195827031508088
-typography_spectrum: 0.11603873805142939
+layout_spectrum: 0.28433
+typography_spectrum: 0.16
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.09725258452817798
-  lightness: 0.345986069412902
-  saturation: 0.006181943928822875
-  rhythmicContrast: 0.5171574547421187
+    - '#c1c4c9'
+    - '#435e72'
+    - '#6f7e8d'
+    - '#eeeff3'
+    - '#02263b'
+  brandStrength: 0.6875
+  lightness: 0.75
+  saturation: 0.1875
+  rhythmicContrast: 1
 purpose: []
